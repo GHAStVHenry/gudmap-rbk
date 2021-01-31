@@ -8,7 +8,7 @@ description: >-
  <a href="mailto:help@rebuildingakidney.org">For RBK: help@rebuildingakidney.org</a>
  </p>
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ghastvhenry.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
