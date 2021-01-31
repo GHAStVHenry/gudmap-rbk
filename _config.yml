@@ -1,1 +1,28 @@
-theme: jekyll-theme-slate
+title: GUDMAP/RBK
+email: your-email@example.com
+description: >-
+ <p>This is the home of public documentation for the GUDMAP/RBK Consortiums. If you find anything that needs correcting or have suggestions for more documentation, please send email to:</p>
+ <p>
+ <a href="mailto:help@gudmap.org">For GUDMAP: help@gudmap.org</a>
+   |  
+ <a href="mailto:help@rebuildingakidney.org">For RBK: help@rebuildingakidney.org</a>
+ </p>
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-leap-day
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
