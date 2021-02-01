@@ -1,4 +1,3 @@
-
 ---
 title: Command Lines and Libraries
 layout: page

@@ -16,7 +16,7 @@ This is the home of public documentation for the GUDMAP/RBK Consortiums. If you 
 
 ## Submitting Data (for members of GUDMAP and RBK)
 
-For members of GUDMAP and RBK to submit data, use our self-curation tools to add or edit data. If the type of data you need to submit is not listed below, please contact [help@gudmap.org](help@gudmap.org) or [help@rebuildingakidney.org](help@rebuildingakidney.org). If you are publishing a paper using GUDMAP or RBK data, it's a good idea to contact us as well to make sure you have an appropriate [Data Collection](Submitting-Data-Collections) for optimal citation.
+For members of GUDMAP and RBK to submit data, use our self-curation tools to add or edit data. If the type of data you need to submit is not listed below, please contact [help@gudmap.org](help@gudmap.org) or [help@rebuildingakidney.org](help@rebuildingakidney.org). If you are publishing a paper using GUDMAP or RBK data, it's a good idea to contact us as well to make sure you have an appropriate [Data Collection]({{ site.baseurl }}/docs/submitting/Submitting-Data-Collections) for optimal citation.
 
 To use our self-curation tools to add or edit data, see:
 - [Standard files and formats for submission](Standard-file-formats-for-data-submission)

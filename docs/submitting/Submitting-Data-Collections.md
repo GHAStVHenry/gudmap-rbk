@@ -1,11 +1,15 @@
-**[PDF version](https://github.com/informatics-isi-edu/gudmap-rbk/wiki/Submitting-Data-Collections.pdf)**
+---
+title: Submitting Data Collections
+layout: page
+---
+<a href="{{ site.baseurl }}/assets/pdf/Submitting-Data-Collections.pdf" target="_blank">PDF version</a>
 
 This page provides instructions for citing data by submitting Data Collections to the GUDMAP/RBK Data Explorer.
 
 If you have any questions or feedback, please send them to your consortium's help email: [help@gudmap.org](mailto:help@gudmap.org) or [help@rebuildingakidney.org](mailto:help@rebuildingakidney.org)
 
 We also have the following training materials available:
-* [Webinar Slides](https://github.com/informatics-isi-edu/gudmap-rbk/wiki/slides/GUDMAP-RBK-02082018-data_submission_workshop-collections.pptx)
+* [Webinar Slides]({{ site.baseurl }}/assets/slides/GUDMAP-RBK-02082018-data_submission_workshop-collections.pptx)
 * [Webinar Replay 02/08/2018 (17:06)](https://youtu.be/OCHq4GwzEFc)
 * Tutorial Videos (Coming Soon)
 
@@ -15,7 +19,7 @@ We also have the following training materials available:
 
 Adding data Collections involves the following steps:
 
-* Make sure you are in the correct Globus authentication group, [kidney-writers](https://github.com/informatics-isi-edu/gudmap-rbk/wiki/Submitting-Protocols#1-join-the-kidney-writers-group), and that you are logged in.
+* Make sure you are in the correct Globus authentication group, [kidney-writers]({{ site.baseurl }}/docs/submitting/Submitting-Protocols#1-join-the-kidney-writers-group), and that you are logged in.
 * Create the base Collection record.
 * For each type of data you would like to include, scroll down to the appropriate section and link the data records.
 
@@ -55,9 +59,9 @@ Adding data Collections involves the following steps:
 
     The `Create Collection Record` form appears in a new browser tab.
 
-    ![Screenshot of the Create Collection Record form](wiki_images/submitting-data/create-collection.png)
+    ![Screenshot of the Create Collection Record form]({{ site.baseurl }}/images/submitting-data/create-collection.png)
     
-    For a screenshot of the entire form, [click here](wiki_images/submitting-data/create-collection-full.png).
+    For a screenshot of the entire form, [click here]({{ site.baseurl }}/images/submitting-data/create-collection-full.png).
 
 * Select the values for each relevant field. The required fields are:
   * _Title_
@@ -80,21 +84,21 @@ Once the base Collection record is created, now you can link the related data. T
 
 **If you don't see a section for data you want to include, email [help@gudmap.org](help@gudmap.org) or [help@rebuildingakidney.org](help@rebuildingakidney.org).**
 
-![Screenshot of the Create Collection Record form](wiki_images/submitting-data/collections-record-blank.png)
+![Screenshot of the Create Collection Record form]({{ site.baseurl }}/images/submitting-data/collections-record-blank.png)
 
-For the full length image of the screen, [click here](wiki_images/submitting-data/collection-record-blank-full.png).
+For the full length image of the screen, [click here]({{ site.baseurl }}/images/submitting-data/collection-record-blank-full.png).
 
 * In each relevant section, click `Add` to the right of the section header.
 
-![Screenshot of the Create Collection Record form](wiki_images/submitting-data/collection-record-blank-add-if.png)
+![Screenshot of the Create Collection Record form]({{ site.baseurl }}/images/submitting-data/collection-record-blank-add-if.png)
 
 * Browse or search for the records you want to add and then click the checkbox to select them.
 
-![Screenshot of the Create Collection Record form](wiki_images/submitting-data/collection-record-blank-select-if.png)
+![Screenshot of the Create Collection Record form]({{ site.baseurl }}/images/submitting-data/collection-record-blank-select-if.png)
 
 * Click _Submit_ to link them to the Collection record.
 
-![Screenshot of the Create Collection Record form](wiki_images/submitting-data/collection-record-linked-record.png)
+![Screenshot of the Create Collection Record form]({{ site.baseurl }}/images/submitting-data/collection-record-linked-record.png)
 
 * Once you're ready for internal review, change _Curation Status_ to _PI Review_.
 
@@ -130,4 +134,4 @@ To delete a data collection record:
 
 * Once all of the related records have been unlinked (deleted), then scroll up to the top of the record and click _Delete_.
 
-![Delete button](wiki_images/submitting-data/chaise-delete-option.png)
+![Delete button]({{ site.baseurl }}/images/submitting-data/chaise-delete-option.png)
